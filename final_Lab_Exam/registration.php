@@ -108,6 +108,7 @@
     </tr>
 
 	</table>
+	<input type="button" onclick="location.href='adminHome.php';" value="Back">
 	         <?php echo $Errormsg;?>
 		</center>
 

@@ -19,7 +19,7 @@
 		<tr>
 			<td>Add employee/Remove employee</td>
 			<td align="left">
-				<input type="button" onclick="location.href=employee.php';" value="Add/Remove Employee" />		
+				<input type="button" onclick="location.href='employee.php';" value="Add/Remove Employee" />		
 			</td>
 		</tr>
 		<tr>
