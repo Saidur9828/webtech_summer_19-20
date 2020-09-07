@@ -17,9 +17,9 @@
 		<legend>Admin InterFace</legend>
 	<table border="2">
 		<tr>
-			<td>Add employee/Remove employee ---> </td>
+			<td>Add employee/Remove employee</td>
 			<td align="left">
-				<input type="button" onclick="location.href='Raremployee.php';" value="Add/Remove Employee" />		
+				<input type="button" onclick="location.href=employee.php';" value="Add/Remove Employee" />		
 			</td>
 		</tr>
 		<tr>
@@ -30,7 +30,7 @@
 		
 		
 		<tr>
-			<td> Admin Profile ---> </td>
+			<td> Admin Profile</td>
 			<td align="left">
 				<input type="button" onclick="location.href='admin.php';" value="Admin Profile" />		
 			</td>
